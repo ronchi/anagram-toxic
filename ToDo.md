@@ -1,4 +1,4 @@
-#ToDo List
+# ToDo List
 
 1. Review the training data and the test data to determine how to "wrangle" it into a useable form.
 2. Figure out which (open source) Bazyes code is out there that we might want to use.  You can learn about Naive Bayes [here](https://en.wikipedia.org/wiki/Naive_Bayes_classifier).  There is quite a lot more on the web.  You can get some Python-specific examples [here](https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/).
