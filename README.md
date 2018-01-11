@@ -1,2 +1,2 @@
 # anagram-toxic
-A New York Chapter Kaggle Contender
+A New York Chapter Kaggle Competition Contender
