@@ -1,0 +1,4 @@
+The Orange3 file for anagram-Wordcloud is for generating word clouds based upon the particular topic.  
+
+You *will* have had to download the (latest) train.csv file, and the main data file will need to be 
+(re)loaded with train.csv.
