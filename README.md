@@ -6,3 +6,4 @@ This is the code base for (one of the) New York groups that are competing in a K
 History:
 1. 2018/01/10 - Inaugural meeting in New York City.  Exchanged email addresses with the various team members.
 2. 2018/01/11 - Created the GitHub site for the project.
+3. 2018/02/07 - Added Orange3 workflows for each of the six topics.
